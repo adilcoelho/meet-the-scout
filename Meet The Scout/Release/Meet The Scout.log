@@ -1,0 +1,67 @@
+﻿Build started 20/06/2016 20:43:22.
+     1>Project "C:\Users\PCHOME\Desktop\Período 2\Programacao 2\Projeto\Meet The Scout - FINAL\Meet The Scout\Meet The Scout.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Meet The Scout.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Meet The Scout.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FaseBatalha.cpp
+         FaseBatalha.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PCHOME\Desktop\Período 2\Programacao 2\Projeto\Meet The Scout - FINAL\Release\Meet The Scout.exe" /INCREMENTAL:NO /NOLOGO "allegro-4.4.2-monolith-mt.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Meet The Scout.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\PCHOME\Desktop\Período 2\Programacao 2\Projeto\Meet The Scout - FINAL\Release\Meet The Scout.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PCHOME\Desktop\Período 2\Programacao 2\Projeto\Meet The Scout - FINAL\Release\Meet The Scout.lib" /MACHINE:X86 Release\Caixa.obj
+         Release\Cart.obj
+         Release\Fundo.obj
+         Release\Container.obj
+         Release\Demoman.obj
+         Release\Dispenser.obj
+         Release\Engineer.obj
+         Release\Entidade.obj
+         Release\FabricaObstaculo.obj
+         Release\Fase.obj
+         Release\Fase1.obj
+         Release\Fase2.obj
+         Release\Fase3.obj
+         Release\FaseBatalha.obj
+         Release\GerenciadorArquivos.obj
+         Release\GerenciadorColisao.obj
+         Release\GerenciadorGrafico.obj
+         Release\Gerenciador_Save.obj
+         Release\Heavy.obj
+         Release\ImprimeInfos.obj
+         Release\Inimigo.obj
+         Release\Jogador.obj
+         Release\Jogo.obj
+         "Release\Meet The Scout.obj"
+         Release\Menu.obj
+         Release\MenuEscolherFase.obj
+         Release\MenuJogar.obj
+         Release\MenuPausar.obj
+         Release\MenuRaiz.obj
+         Release\Obstaculo.obj
+         Release\Personagem.obj
+         Release\Principal.obj
+         Release\Pyro.obj
+         Release\Sentry.obj
+         Release\Soldier.obj
+         Release\Spy.obj
+         Release\stdafx.obj
+         Release\Teclado.obj
+         Release\Tecs.obj
+         Release\Cenario.obj
+         Release\Cenario1.obj
+         Release\Cenario2.obj
+         Release\Cenario3.obj
+         Release\TimerFPS.obj
+         Release\Usuario.obj
+         Generating code
+         Finished generating code
+         Meet The Scout.vcxproj -> C:\Users\PCHOME\Desktop\Período 2\Programacao 2\Projeto\Meet The Scout - FINAL\Release\Meet The Scout.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\PCHOME\Desktop\Período 2\Programacao 2\Projeto\Meet The Scout - FINAL\Release\Meet The Scout.exe;#1" /manifest "Release\Meet The Scout.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\Meet The Scout.unsuccessfulbuild".
+         Touching "Release\Meet The Scout.lastbuildstate".
+     1>Done Building Project "C:\Users\PCHOME\Desktop\Período 2\Programacao 2\Projeto\Meet The Scout - FINAL\Meet The Scout\Meet The Scout.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.36
